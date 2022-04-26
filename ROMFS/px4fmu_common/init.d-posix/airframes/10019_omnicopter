@@ -15,6 +15,7 @@ param set-default SYS_CTRL_ALLOC 1
 param set-default CA_AIRFRAME 0
 
 param set-default CA_ROTOR_COUNT 8
+param set-default CA_R_REV 255
 
 param set-default CA_ROTOR0_PX 0.14435
 param set-default CA_ROTOR0_PY 0.14435
