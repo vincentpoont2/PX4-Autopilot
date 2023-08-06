@@ -41,3 +41,6 @@ lis2mdl -X -q start
 lis3mdl -X -q start
 qmc5883l -X -q start
 rm3100 -X -q start
+
+#start NCP5623B
+rgbled_ncp5623c start -X -a 56
